@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_VzfoUIe6Eeq-mpiCCWDpZQ" name="Primero-Empresa">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_V1dXMIe6Eeq-mpiCCWDpZQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_BYOokIe7Eeq-mpiCCWDpZQ" name="empleado" visibility="public">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_q5NBUIe7Eeq-mpiCCWDpZQ" name="codigo">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_u4ceEIe7Eeq-mpiCCWDpZQ" name="nombre">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_yshzsIe7Eeq-mpiCCWDpZQ" name="oficio">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_58gocIe7Eeq-mpiCCWDpZQ" name="salario">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Real"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_xx00EIe9Eeq-mpiCCWDpZQ" name="departamento" type="_dHiLwIe8Eeq-mpiCCWDpZQ" association="_xxwioIe9Eeq-mpiCCWDpZQ">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_xx00EYe9Eeq-mpiCCWDpZQ"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_xx1bIIe9Eeq-mpiCCWDpZQ" value="1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_PdX7cIjFEequJaI6UnoDRw" name="jefe" visibility="package">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_8LciUIjFEequJaI6UnoDRw" type="_BYOokIe7Eeq-mpiCCWDpZQ" association="_8LTYYIjFEequJaI6UnoDRw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_8LdJYIjFEequJaI6UnoDRw"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_8LdwcIjFEequJaI6UnoDRw" value="1"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_N4pOwIjEEequJaI6UnoDRw" name="getCodigo"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_WMYmkIjEEequJaI6UnoDRw" name="getNombre"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_Wq2EMIjEEequJaI6UnoDRw" name="getOficio"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_dmm8cIjEEequJaI6UnoDRw" name="getSalario"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_gGdqEIjEEequJaI6UnoDRw" name="setCodigo"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_kp4K4IjEEequJaI6UnoDRw" name="setNombre"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_mkLUYIjEEequJaI6UnoDRw" name="setOficio"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_n393gIjEEequJaI6UnoDRw" name="setSalario"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_dHiLwIe8Eeq-mpiCCWDpZQ" name="departamento">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_x8-woIe8Eeq-mpiCCWDpZQ" name="codigo">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_EffpkIe9Eeq-mpiCCWDpZQ" name="nombre">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_V8V68Ie9Eeq-mpiCCWDpZQ" name="localidad">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_0rIoAIjEEequJaI6UnoDRw" name="getCodigo"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_0_8aYIjEEequJaI6UnoDRw" name="setCodigo"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_1Q_HEIjEEequJaI6UnoDRw" name="getNombre"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_1j5cAIjEEequJaI6UnoDRw" name="setNombre"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_12BGwIjEEequJaI6UnoDRw" name="getLocalidad"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_2M4HkIjEEequJaI6UnoDRw" name="setLocalidad"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_xxwioIe9Eeq-mpiCCWDpZQ" memberEnd="_xx00EIe9Eeq-mpiCCWDpZQ _xx1bIYe9Eeq-mpiCCWDpZQ">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_xxy-4Ie9Eeq-mpiCCWDpZQ" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_xxy-4Ye9Eeq-mpiCCWDpZQ" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_xx1bIYe9Eeq-mpiCCWDpZQ" name="empleado" type="_BYOokIe7Eeq-mpiCCWDpZQ" association="_xxwioIe9Eeq-mpiCCWDpZQ"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_8LTYYIjFEequJaI6UnoDRw" visibility="protected" memberEnd="_8LciUIjFEequJaI6UnoDRw _8LeXgIjFEequJaI6UnoDRw">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8LaGEIjFEequJaI6UnoDRw" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8LatIIjFEequJaI6UnoDRw" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_8LeXgIjFEequJaI6UnoDRw" name="jefe" type="_BYOokIe7Eeq-mpiCCWDpZQ" association="_8LTYYIjFEequJaI6UnoDRw"/>
+  </packagedElement>
+</uml:Model>

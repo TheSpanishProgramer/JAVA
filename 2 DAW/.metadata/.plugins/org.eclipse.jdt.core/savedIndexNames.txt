@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/prats/eclipse-workspace/2 DAW/.metadata/.plugins/org.eclipse.jdt.core
+743155083.index
+3007040866.index
+747720652.index

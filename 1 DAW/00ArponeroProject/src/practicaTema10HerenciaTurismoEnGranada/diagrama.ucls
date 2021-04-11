@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="practicaTema10HerenciaTurismoEnGranada.BajadaCanoa" project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/BajadaCanoa.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="208" x="1587" y="574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="practicaTema10HerenciaTurismoEnGranada.SenderismoSierraNevada" 
+    project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/SenderismoSierraNevada.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="249" x="1835" y="574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="practicaTema10HerenciaTurismoEnGranada.VisitaAlhambra" project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/VisitaAlhambra.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="208" x="1070" y="574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="practicaTema10HerenciaTurismoEnGranada.MiObjectOutputStream" 
+    project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/MiObjectOutputStream.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="231" x="353" y="307"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="practicaTema10HerenciaTurismoEnGranada.Visita" project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/Visita.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="208" x="947" y="307"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="practicaTema10HerenciaTurismoEnGranada.VisitaLorca" project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/VisitaLorca.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="208" x="822" y="574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="practicaTema10HerenciaTurismoEnGranada.EmpresaTurismo" project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/EmpresaTurismo.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="839" width="298" x="1318" y="-572"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="practicaTema10HerenciaTurismoEnGranada.Ticket" project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/Ticket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="605" width="252" x="1318" y="733"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="practicaTema10HerenciaTurismoEnGranada.teclado" project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/teclado.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="227" width="241" x="624" y="307"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="practicaTema10HerenciaTurismoEnGranada.VisitaGeneralife" 
+    project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/VisitaGeneralife.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="208" x="1318" y="574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="practicaTema10HerenciaTurismoEnGranada.ServicioTuristico" 
+    project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/ServicioTuristico.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="208" x="574" y="574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="practicaTema10HerenciaTurismoEnGranada.VisitaGranada" project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/VisitaGranada.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="208" x="305" y="574"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="practicaTema10HerenciaTurismoEnGranada.Actividad" project="00ArponeroProject" 
+    file="/00ArponeroProject/src/practicaTema10HerenciaTurismoEnGranada/Actividad.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="208" x="1358" y="307"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="14">    
+    <bendpoint x="2135" y="307"/>    
+    <bendpoint x="2135" y="574"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="15" name="tickets"/>      
+      <multiplicity id="16" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="17">    
+    <bendpoint x="1327" y="307"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="18">    
+    <bendpoint x="916" y="307"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="20">    
+    <bendpoint x="1556" y="574"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <dependency id="22">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <dependency id="24">    
+    <bendpoint x="1617" y="307"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <dependency id="28">    
+    <bendpoint x="1596" y="307"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="29">    
+    <bendpoint x="1185" y="307"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="30">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="31">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="32">    
+    <bendpoint x="1206" y="307"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="34">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="35" name="ticketContratado"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <dependency id="38">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="39">    
+    <bendpoint x="543" y="574"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="41">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="42">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <dependency id="44">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="45">    
+    <bendpoint x="895" y="307"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="47">    
+    <bendpoint x="2114" y="307"/>    
+    <bendpoint x="2114" y="574"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="48" name="tmp"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="51" name="servicios"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

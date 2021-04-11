@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Borrar el recurso &apos;spring-framework-petclinic/.gitignore&apos;." deleteContents="false" description="Borrar el recurso &apos;spring-framework-petclinic/.gitignore&apos;." element1="/spring-framework-petclinic/.gitignore" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1611049788665"/>
+</session>
